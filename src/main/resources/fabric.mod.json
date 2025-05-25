@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "blinkablemod",
+	"version": "${version}",
+	"name": "Blinkable Eye",
+	"description": "Literally a minecraft mod villagers and animals blink their eyes!",
+	"authors": [
+		"dreamtraveller"
+	],
+	"contact": {
+		"homepage": " ",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/blinkablemod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.dreamtraveller.blinkablemod.BlinkableEye"
+		],
+		"fabric-datagen": [
+			"com.dreamtraveller.blinkablemod.BlinkableEyeDataGenerator"
+		],
+		"client": [
+			"com.dreamtraveller.blinkablemod.BlinkableEyeClient"
+		]
+	},
+	"mixins": [
+		"blinkablemod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
