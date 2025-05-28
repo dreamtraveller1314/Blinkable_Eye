@@ -1,5 +1,6 @@
 package com.dreamtraveller.blinkablemod;
 
+import com.dreamtraveller.blinkablemod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -11,5 +12,6 @@ public class BlinkableEye implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		ModItems.registerModItems();
 	}
 }
