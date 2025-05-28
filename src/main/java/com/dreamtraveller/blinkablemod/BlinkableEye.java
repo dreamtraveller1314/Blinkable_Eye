@@ -1,6 +1,7 @@
 package com.dreamtraveller.blinkablemod;
 
 import com.dreamtraveller.blinkablemod.block.ModBlocks;
+import com.dreamtraveller.blinkablemod.item.ModItemGroups;
 import com.dreamtraveller.blinkablemod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -13,6 +14,7 @@ public class BlinkableEye implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
 	}
