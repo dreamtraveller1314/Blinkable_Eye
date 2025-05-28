@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "blinkablemod:blinking_eye_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "blinkablemod:blinking_eye"
+  }
+}
