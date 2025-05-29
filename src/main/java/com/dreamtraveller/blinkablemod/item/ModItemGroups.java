@@ -20,6 +20,7 @@ public class ModItemGroups {
                         entries.add(ModItems.BLINKING_EYE);
                         entries.add(ModBlocks.BLINKING_EYE_BLOCK);
                         entries.add(ModItems.CHISEL);
+                        entries.add(ModItems.BLINKING_EYE_HELMET);
                     }).build());
 
     public static void registerItemGroups(){
