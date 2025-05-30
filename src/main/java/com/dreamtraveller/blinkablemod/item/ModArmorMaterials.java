@@ -20,7 +20,7 @@ public class ModArmorMaterials {
             () -> new ArmorMaterial(Util.make(new EnumMap<>(ArmorItem.Type.class), map -> {
                 map.put(ArmorItem.Type.HELMET, 2);
             }), 20, SoundEvents.ITEM_ARMOR_EQUIP_DIAMOND, () -> Ingredient.ofItems(ModItems.BLINKING_EYE),
-                    List.of(new ArmorMaterial.Layer(Identifier.of(BlinkableEye.MOD_ID, "pink_garnet"))), 0,0));
+                    List.of(new ArmorMaterial.Layer(Identifier.of(BlinkableEye.MOD_ID, "blinking_eye"))), 0,0));
 
 
     public static RegistryEntry<ArmorMaterial> registerArmorMaterial(String name, Supplier<ArmorMaterial> material) {

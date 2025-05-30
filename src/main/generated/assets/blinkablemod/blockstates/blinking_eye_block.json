@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "blinkablemod:block/blinking_eye_block"
+    }
+  }
+}
