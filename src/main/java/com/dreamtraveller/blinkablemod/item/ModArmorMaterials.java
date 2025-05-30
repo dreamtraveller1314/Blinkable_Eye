@@ -27,3 +27,4 @@ public class ModArmorMaterials {
         return Registry.registerReference(Registries.ARMOR_MATERIAL, Identifier.of(BlinkableEye.MOD_ID, name), material.get());
     }
 }
+
