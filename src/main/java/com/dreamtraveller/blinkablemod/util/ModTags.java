@@ -1,17 +1,18 @@
 package com.dreamtraveller.blinkablemod.util;
 
 import com.dreamtraveller.blinkablemod.BlinkableEye;
+import net.minecraft.item.Item;
 import net.minecraft.registry.RegistryKeys;
 import net.minecraft.registry.tag.TagKey;
 import net.minecraft.util.Identifier;
 import net.minecraft.block.Block;
 
 public class ModTags {
-    public static class Item {
+    public static class Items {
         public static final TagKey<Item> EYE_ITEMS = createTag("eye_items");
 
-        private static TagKey<Item> createTag(String name){
-            return TagKey.of((net.minecraft.registry.RegistryKey<? extends net.minecraft.registry.Registry<Item>>) RegistryKeys.ITEM, Identifier.of(BlinkableEye.MOD_ID, name));
+        private static TagKey<Item> createTag(String name) {
+            return TagKey.of(RegistryKeys.ITEM, Identifier.of(BlinkableEye.MOD_ID, name));
         }
     }
 
