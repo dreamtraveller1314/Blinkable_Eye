@@ -3,6 +3,7 @@ package com.dreamtraveller.blinkablemod;
 import com.dreamtraveller.blinkablemod.block.ModBlocks;
 import com.dreamtraveller.blinkablemod.item.ModItemGroups;
 import com.dreamtraveller.blinkablemod.item.ModItems;
+import com.dreamtraveller.blinkablemod.world.gen.ModWorldGeneration;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -17,5 +18,6 @@ public class BlinkableEye implements ModInitializer {
 		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
+		ModWorldGeneration.generateModWorldGen();
 	}
 }
