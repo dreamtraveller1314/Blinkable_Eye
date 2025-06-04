@@ -23,7 +23,7 @@ public class BlinkableEyeClient implements ClientModInitializer{
             Identifier texture = Identifier.of("blinkablemod",
                     "textures/models/armor/" + (blink ? "blinking_eye" : "close_eye") + "_layer_1.png");
             matrices.push();
-            float scale = 1.0f;
+            float scale = 1.05f;
             matrices.scale(scale, scale, scale);
             var vertexConsumer = vertexConsumers.getBuffer(RenderLayer.getArmorCutoutNoCull(texture));
             contextModel.head.render(matrices, vertexConsumer, light, OverlayTexture.DEFAULT_UV);
