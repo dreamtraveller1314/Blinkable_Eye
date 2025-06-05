@@ -33,6 +33,8 @@ Blinking Eye Item to Block: Craft 1 Blinking Eye Block from 9 Blinking Eye Items
 
 Blinking Eye Block to Item: Craft 9 Blinking Eye Items from 1 Blinking Eye Block using a crafting table.
 
+Emerald to Blinking Eye Item: Craft 1 Blinking Eye Item from 9 Emeralds using a crafting table.
+
 Chisel Crafting: Craft a Chisel from 1 Blinking Eye Item and 2 Sticks using a crafting table.
 
 Blinking Eye Helmet Disassembly: Craft 5 Blinking Eye Items from 1 Blinking Eye Helmet using a crafting table.
@@ -64,3 +66,13 @@ Blinkable Eye Mod: Place the .jar file of this mod into your Minecraft mods fold
 
 ## Data Generation
 The mod is set up with data generation, which automatically creates loot tables, block tags, and item tags. This ensures compatibility and proper integration with Minecraft's systems.
+
+## 
+
+### This is my first "Mod" that I've coded if there are any bugs, suggestion or feature requests post on the "Issues" tab in the GitHub
+
+[https://github.com/dreamtraveller1314/Blinkable_Eye/issues](https://github.com/dreamtraveller1314/Blinkable_Eye/issues)
+
+##
+
+Made for [Hackcraft](https://hackcraft.hackclub.com/)
