@@ -31,14 +31,24 @@ Diamond Generation: Throw a Blinking Eye Item onto a Blinking Eye Block to produ
 
 ## Custom Recipes
 Blinking Eye Item to Block: Craft 1 Blinking Eye Block from 9 Blinking Eye Items using a crafting table.
+![image](https://github.com/user-attachments/assets/fc1cc9a4-870d-451b-9c57-46e4e1ed8f87)
+
 
 Blinking Eye Block to Item: Craft 9 Blinking Eye Items from 1 Blinking Eye Block using a crafting table.
+![image](https://github.com/user-attachments/assets/0dcfd8ce-db52-4b14-ab85-b4329ffe222a)
+
 
 Emerald to Blinking Eye Item: Craft 1 Blinking Eye Item from 9 Emeralds using a crafting table.
+![image](https://github.com/user-attachments/assets/c932d40a-a27b-424a-bf65-711d7c65cfbf)
+
 
 Chisel Crafting: Craft a Chisel from 1 Blinking Eye Item and 2 Sticks using a crafting table.
+![image](https://github.com/user-attachments/assets/1f7b489c-b667-4a5b-a66f-99432996d3f3)
+
 
 Blinking Eye Helmet Disassembly: Craft 5 Blinking Eye Items from 1 Blinking Eye Helmet using a crafting table.
+![image](https://github.com/user-attachments/assets/6e43be8b-b102-415a-8a87-ac04fd00984a)
+
 
 
 
