@@ -1,11 +1,10 @@
 # Blinkable Eye
-https://modrinth.com/mod/blinkable-eye
-
-https://youtu.be/2uQv8FYZrrs
-
 A unique Minecraft Fabric mod that introduces mystical "Blinking Eye" themed items, blocks, and tools, adding new crafting possibilities and intriguing in-game interactions!
 
+https://modrinth.com/mod/blinkable-eye
 
+## Demo Video
+https://youtu.be/2uQv8FYZrrs
 
 ## Features
 This mod brings a variety of new content and mechanics to your Minecraft world:
