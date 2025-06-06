@@ -4,9 +4,11 @@ A unique Minecraft Fabric mod that introduces mystical "Blinking Eye" themed ite
 https://modrinth.com/mod/blinkable-eye
 
 ## Demo Video
-https://youtu.be/2uQv8FYZrrs
+https://www.youtube-nocookie.com/embed/2uQv8FYZrrs
 
-## Features
+
+
+# Features
 This mod brings a variety of new content and mechanics to your Minecraft world:
 
 
@@ -31,24 +33,19 @@ Diamond Generation: Throw a Blinking Eye Item onto a Blinking Eye Block to produ
 
 ## Custom Recipes
 Blinking Eye Item to Block: Craft 1 Blinking Eye Block from 9 Blinking Eye Items using a crafting table.
-![image](https://github.com/user-attachments/assets/fc1cc9a4-870d-451b-9c57-46e4e1ed8f87)
-
+![Replace this with a description](https://cdn.modrinth.com/data/cached_images/b2a7c42493cc24981612ffd0df6ab7acac6c0638_0.webp)
 
 Blinking Eye Block to Item: Craft 9 Blinking Eye Items from 1 Blinking Eye Block using a crafting table.
-![image](https://github.com/user-attachments/assets/0dcfd8ce-db52-4b14-ab85-b4329ffe222a)
-
+![Replace this with a description](https://cdn.modrinth.com/data/cached_images/9e87e7bfd64f459932dccdfb6ec83dc42f9cd1ec_0.webp)
 
 Emerald to Blinking Eye Item: Craft 1 Blinking Eye Item from 8 Emeralds using a crafting table.
-![image](https://github.com/user-attachments/assets/c932d40a-a27b-424a-bf65-711d7c65cfbf)
-
+![Replace this with a description](https://cdn.modrinth.com/data/cached_images/160cbd39f2a2320c2a778f83fca846ccbc3cfbc2_0.webp)
 
 Chisel Crafting: Craft a Chisel from 1 Blinking Eye Item and 2 Sticks using a crafting table.
-![image](https://github.com/user-attachments/assets/1f7b489c-b667-4a5b-a66f-99432996d3f3)
+![Replace this with a description](https://cdn.modrinth.com/data/cached_images/8c4d17508df0febd5d4e37163777dd3343694d55_0.webp)
 
-
-Blinking Eye Helmet Disassembly: Craft 1 Blinking Eye Helmet 5 from Blinking Eye Items using a crafting table.
-![image](https://github.com/user-attachments/assets/6e43be8b-b102-415a-8a87-ac04fd00984a)
-
+Blinking Eye Item to Helmet: Craft 1 Blinking Eye Helmet from 5 Blinking Eye Items using a crafting table.
+![Replace this with a description](https://cdn.modrinth.com/data/cached_images/10f83c28eae898400dcd40cf2937748bb4352011_0.webp)
 
 
 
@@ -71,7 +68,7 @@ This is a Fabric mod. To install it, you will need:
 
 Fabric Loader: Download and install the Fabric Loader for Minecraft 1.21.
 
-Fabric API: Download the Fabric API for Minecraft 1.21.3 (or the compatible version for your Fabric Loader).
+Fabric API: Download the Fabric API for Minecraft 1.21 (or the compatible version for your Fabric Loader).
 
 Blinkable Eye Mod: Place the .jar file of this mod into your Minecraft mods folder.
 
