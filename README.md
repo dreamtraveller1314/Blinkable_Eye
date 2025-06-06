@@ -30,7 +30,7 @@ Diamond Generation: Throw a Blinking Eye Item onto a Blinking Eye Block to produ
 
 
 ## Custom Recipes
-Blinking Eye Item to Block: Craft 1 Blinking Eye Block from 9 Blinking Eye Items using a crafting table.
+Blinking Eye Item to Block: Craft 1 Blinking Eye Block from 8 Blinking Eye Items using a crafting table.
 ![image](https://github.com/user-attachments/assets/fc1cc9a4-870d-451b-9c57-46e4e1ed8f87)
 
 
