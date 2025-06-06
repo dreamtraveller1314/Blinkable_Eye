@@ -80,7 +80,3 @@ The mod is set up with data generation, which automatically creates loot tables,
 ### This is my first "Mod" that I've coded if there are any bugs, suggestion or feature requests post on the "Issues" tab in the GitHub
 
 [https://github.com/dreamtraveller1314/Blinkable_Eye/issues](https://github.com/dreamtraveller1314/Blinkable_Eye/issues)
-
-##
-
-Made for [Hackcraft](https://hackcraft.hackclub.com/)
